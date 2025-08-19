@@ -5,9 +5,10 @@ import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { CoreService } from '../core/core.service';
 
 @Component({
-  selector: 'app-emp-add-edit',
-  templateUrl: './emp-add-edit.component.html',
-  styleUrl: './emp-add-edit.component.css'
+    selector: 'app-emp-add-edit',
+    templateUrl: './emp-add-edit.component.html',
+    styleUrl: './emp-add-edit.component.css',
+    standalone: false
 })
 export class EmpAddEditComponent implements OnInit {
   empForm: FormGroup;
