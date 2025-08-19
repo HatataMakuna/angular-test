@@ -8,9 +8,10 @@ import { MatTableDataSource } from '@angular/material/table';
 import { CoreService } from './core/core.service';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.css',
+    standalone: false
 })
 export class AppComponent implements OnInit {
   //title = 'crud-app';
