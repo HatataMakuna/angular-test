@@ -1,4 +1,4 @@
-<big><center>This repo is no longer maintained, last commit was on August 19, 2025</center></big>
+<p align="center">This repo is no longer maintained, last commit was on August 19, 2025</p>
 
 # AngularTest
 
