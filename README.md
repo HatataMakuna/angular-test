@@ -1,3 +1,5 @@
+<big><center>This repo is no longer maintained, last commit was on August 19, 2025</center></big>
+
 # AngularTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
